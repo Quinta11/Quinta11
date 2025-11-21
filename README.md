@@ -1,6 +1,11 @@
-### Hi there 👋
+### Welcome! 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinta11&layout=compact&theme=merko)
 
+My name is Adrian Quintero, and I'm a recently-graduated Computer Engineer from Embry-Riddle Aeronautical University. Thank you for visiting my GitHub profile!
+
+Here, you'll find a multidude of projects I've worked on in the past, as well as creative projects being worked on at present. My most notable project as of writing this is one my Multi-Agent Neuroevolution Simulator, worked on in tandem with other at-the-time ERAU students for our Senior Design class.
+
+Outside of class, I've worked on a few pet projects, such as a rudimentary vote mapper for Florida's 6th Congressional District (a small exercise inspired by the district's special election in April 2025), a simple calculator for Accumulated Cyclone Energy written with Perl, and most recently, a Hurricane Imagery tool currently in active development!
 <!--
 **Quinta11/Quinta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
